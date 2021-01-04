@@ -22,7 +22,7 @@ Let’s first quickly sum up its key features.
 *   **Canvas API** - Allows direct drawing within the area of JavaFX scene.
 *   **2D and 3D graphics** support - JavaFX offers smooth graphics that render quickly when used with a supported graphics card or GPU.
 *   Styling just like **CSS**
-*   **FXML**[^5]** and Scene Builders** - Are you more of a fan of pick-and-drop components rather than coding and replicating the code snippet multiple times for GUI[^6]? JavaFX’s Scene builders come to your rescue! Coders, don’t be disappointed, you have an FXML file for hard coding your features as per your convenience.
+*   **FXML**[^5] **and Scene Builders** - Are you more of a fan of pick-and-drop components rather than coding and replicating the code snippet multiple times for GUI[^6]? JavaFX’s Scene builders come to your rescue! Coders, don’t be disappointed, you have an FXML file for hard coding your features as per your convenience.
 
     (Note that FXML file can be easily handled even by those who aren’t much aware of programming languages but have some knowledge of HTML)
 
@@ -104,5 +104,5 @@ Since, JavaFX is a relatively new technology, there are only a limited number of
      **Scene Builder** is a visual layout tool that lets users quickly design JavaFX application user interfaces, without coding.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMDUyODIxOV19
+eyJoaXN0b3J5IjpbLTE4NzQ5NDkyODUsMTYxMDUyODIxOV19
 -->
