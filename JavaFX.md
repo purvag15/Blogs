@@ -8,7 +8,7 @@ You all might have heard about JavaFX while developing desktop applications usin
 
 Let’s dive deeper into the development world and gain insights on JavaFX!
 
-So, JavaFX is a software platform for creating desktop applications and some more RIA[^1]s.
+So, JavaFX is a software platform for creating desktop applications and some more RIAs[^1].
 
 It contains graphics and media packages that help developers to design an application of their own choice across diverse platforms[^2] and provides a hardware-accelerated[^3] and lightweight[^4] Java UI platform for business applications.
 
@@ -104,5 +104,6 @@ Since, JavaFX is a relatively new technology, there are only a limited number of
      **Scene Builder** is a visual layout tool that lets users quickly design JavaFX application user interfaces, without coding.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQ5NDkyODUsMTYxMDUyODIxOV19
+eyJoaXN0b3J5IjpbMTYxODg5NTY0NSwtMTg3NDk0OTI4NSwxNj
+EwNTI4MjE5XX0=
 -->
